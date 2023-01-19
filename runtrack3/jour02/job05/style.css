@@ -1,0 +1,38 @@
+body{
+    min-height : 4096px ;
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    height: 150px;
+    bottom: 0;
+    background-color: bisque;
+}
+footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color1{
+
+    background-color: rgb(182, 198, 212);
+}
+
+.color2{
+    color: white;
+    background-color: black;
+
+}
+
+.color3{
+
+    background-color: aqua;
+}
+
+.color4{
+
+    background-color: brown;
+}
